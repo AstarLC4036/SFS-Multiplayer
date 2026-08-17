@@ -2,6 +2,8 @@
 It's a multi-player mod for the game Spaceflight Simulator.
 
 # Warning
+This mod is no longer being maintained because better alternatives are now available in the community.
+
 There are many potential bugs associated with this mod.
 This mod may contain some Chinese comments, I try to use translation software to correct it. 
 The code still contains some useless log output code comments, so delete them if you don't need them
